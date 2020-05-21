@@ -1,0 +1,22 @@
+{
+  "name": "create-next-app-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3015",
+    "build": "next build",
+    "start": "next start -p 3015"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongodb": "^3.5.7",
+    "next": "9.4.1",
+    "next-connect": "^0.6.6",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
